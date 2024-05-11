@@ -1,0 +1,29 @@
+ul.tcportfolio_filters li:hover, ul.tcportfolio_filters li.active{
+background: #ffffff !important;
+    color: #F49b00 !important;
+}
+ul.tcportfolio_filters li {
+    border: none !important;
+}
+.tc_overlay {
+    background-color: #f49b0085 !important;
+    color: white;
+}
+p.tcp-short-des img {
+    width: 70px;
+    background: white;
+    padding: 7px 12px;
+    border-radius: 50%;
+    margin-top: 10px;
+}
+a.tcp-link {
+    display: none;
+}
+h2.headng {
+    font-size: 22px;
+    margin-top: 10px;
+}
+.fa, .fas {
+    font-family: "Fontawesome";
+    font-weight: 100;
+}

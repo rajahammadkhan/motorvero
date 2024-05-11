@@ -1,0 +1,55 @@
+div#block-16 {
+    display: none;
+}
+ul#wd-6263bd8d79c3f .fa-truck {
+    font-size: xx-large;
+}
+ul#wd-6263bd7618682 .fa-money-check {
+    font-size: xx-large;
+}
+ul#wd-6263bd1d6a36c .fa-headset {
+    font-size: xx-large;
+}
+ul#wd-6263bdaa25640 .fa-shield-alt {
+    font-size: xx-large;
+}
+ul#wd-6263be0dd390c .fa-recycle {
+    font-size: xx-large;
+}
+span.\`\`black\`\` {
+    color: #000;
+}
+.vc_column-inner.vc_custom_1650889189159 {
+    height: 550px !important;
+}
+span.new.product-label {
+    min-height: 35px;
+    border-radius: 0;
+    padding: 5px 17px;
+    background: #227789;
+}
+.wd-hover-quick .wd-add-btn>a {
+	background: #227789;
+}
+.mc4wp-form input[type="submit"] {
+	background: #227789;
+}
+.mc4wp-form input[type="submit"]:hover {
+	background: #227789;
+}
+.whb-top-bar {
+    background-color: #227789;
+}
+.product-grid-item .product-image-link {
+	background: #f2f2f2;
+}
+.copyrights-wrapper {
+	background: #227789;
+}
+small {
+	font-size: 100%;
+	color: #fff;
+}
+.price .amount {
+	color: #227789;
+}

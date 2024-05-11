@@ -1,0 +1,22 @@
+@extends('frontend.layouts.master')
+@section('title')
+Singlr News
+@endsection
+@section('content')
+<section>
+  <div class="container my-5 d-flex justify-content-center">
+    <div class="col-md-10 single-news">
+      <div class="text-center">
+        <h3 class="heading-m">
+          How CarGurus and CarOffer are helping dealers fuel their pre-owned pipeline
+        </h3>
+        <p>Name | 20/7/2021, 6:00 PM</p>
+      </div>
+      <img src="{{asset('dealercardimg/Image.png')}}" class="" alt="">
+      <div class="mt-4">
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vero cupiditate ipsa voluptas, blanditiis minima sint voluptate libero porro minus mollitia consectetur dolor ab explicabo quasi ea in error molestias officia pariatur eum ut. Fugiat eveniet officiis aut iste, dolore optio quod est consequuntur vel porro beatae rerum quisquam odio excepturi voluptatum doloremque, assumenda temporibus. Nemo laborum modi labore inventore autem molestiae, dolor porro voluptatum ullam explicabo voluptates excepturi temporibus! Ab laboriosam ex id molestias aliquid quo nesciunt excepturi quos dolorem sapiente perspiciatis perferendis, a numquam magnam quis error autem ut nam rem! Quae sapiente pariatur obcaecati a quia, veritatis quis, consequuntur, libero expedita eos cum dolores! Praesentium molestias aut, dolor ea velit expedita aliquid blanditiis alias! Repudiandae eaque consequatur perferendis eum laboriosam! Maxime unde libero aliquid assumenda sunt commodi rerum aut, mollitia asperiores voluptas voluptatem cupiditate nesciunt explicabo animi eaque quae expedita labore. Veniam ea fuga, commodi voluptatum quis soluta saepe dolor atque doloremque officiis, inventore autem debitis ex ad. Et sint aspernatur quas labore maxime perspiciatis enim reprehenderit magnam voluptatum facilis, ex voluptas totam veritatis nobis officia incidunt deserunt ea esse quibusdam animi! Hic perspiciatis ea voluptates, eum consectetur reiciendis inventore voluptate! Beatae ipsum, optio, accusamus saepe, delectus minima impedit earum quasi natus cum velit! Corrupti quam itaque minus. Temporibus perspiciatis beatae repellat veritatis dolores quis tempora voluptate impedit doloremque, consequuntur mollitia praesentium corporis dolore quaerat delectus corrupti molestias, aut blanditiis. Tempora quis eum vitae, pariatur tenetur eius ipsa debitis quam quisquam beatae repellendus asperiores nesciunt in. Nam, facilis. Dolor aperiam nobis pariatur earum facere eum, consequatur cumque odit omnis consequuntur, perspiciatis nemo, cupiditate corporis veniam fugiat voluptates quos ipsa officia maxime ab? Magnam laborum expedita ea recusandae fugit dolor nihil nostrum. Nulla explicabo incidunt optio ipsa temporibus suscipit tenetur quis, cupiditate iste maxime cum illo minima. Atque nam deserunt, non quasi maiores magni sapiente minima iure id! Facilis odio aut expedita, esse deleniti quisquam natus recusandae quos voluptate, commodi et aliquam ratione deserunt cupiditate voluptatum repellat? Maxime cupiditate, qui dolore omnis corporis deserunt aliquid earum obcaecati fuga suscipit quisquam! Aliquid amet dignissimos impedit expedita pariatur in iure aperiam mollitia culpa quis quam sunt explicabo at ipsa possimus laudantium est nam suscipit non, ipsam alias. Eos deleniti in minus quibusdam, animi facere possimus iure ipsam aliquam id adipisci illum tempora doloribus, consectetur nostrum suscipit neque tempore, odio laudantium sed quaerat inventore corporis? Porro sed dignissimos dolor impedit. Deserunt dolor sequi facilis iure. Pariatur, fugit velit. Vel corrupti voluptate repudiandae. Possimus suscipit provident beatae illum soluta, similique nostrum odit. Repudiandae aut, placeat vitae maiores, perspiciatis incidunt repellat modi, ea autem numquam excepturi explicabo. Quae aperiam debitis eos. Facere natus repellendus dolorum magni voluptatum quidem libero quam culpa. Molestias maiores doloribus excepturi quae id eum impedit, deleniti voluptate voluptatem dolore accusantium distinctio nobis sint minima delectus, natus praesentium repellat ad nihil facilis ex non quisquam! Quibusdam repellendus a repellat cupiditate suscipit eligendi sequi, iste aliquid dicta cumque aperiam vero adipisci iure pariatur sed fugit explicabo ipsam assumenda? Quisquam esse dignissimos dolorum.</p>
+      </div>
+    </div>
+  </div>
+</section>
+@endsection
